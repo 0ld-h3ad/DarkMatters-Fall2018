@@ -9,15 +9,15 @@
 
 **Class Schedule:** \
 Sep 13: No class – SFPC Salon \
-Sep 20: [Software as Ideology] \
-Sep 27: [Black Gooey Universe] \
-Oct 4: [Intro to Blackness and Surveillance] \
-Oct 11: [Guest Lecture] \
-Oct 18: [Guest Lecture] \
-Oct 25: [Biometric Surveillance of Blackness] \
+Sep 20: [Software as Ideology]() \
+Sep 27: [Black Gooey Universe]() \
+Oct 4: [Intro to Blackness and Surveillance]() \
+Oct 11: [Lecture by Melanie Hoff]() \
+Oct 18: [Lecture by Shannon Finnegan]() \
+Oct 25: [Biometric Surveillance of Blackness]() \
 Nov 1: [Algorithmic Policing] \
 Nov 8: No class – Showcase \
-Nov 15: No class – Artist Tooklit 
+Nov 15: No class – Artist Toolkit 
 
 **Course Description**
 
@@ -30,7 +30,7 @@ In this course we will consider together the surveillance of Blackness and the p
   
 **Guiding Questions** 
 
-You do not need to respond to these. Have them in mind when reading and consider them after reading the text, see what comes to mind. 
+  * You do not need to respond to these. Have them in mind when reading and consider them after reading the text, see what comes to mind. 
 
 ## Week 1 - No Class (SFPC Salon) ##
 **Thursday Sep 13**
@@ -40,13 +40,12 @@ You do not need to respond to these. Have them in mind when reading and consider
 
 **Reading:** [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”]()
 
-**Guiding Questions:** \
+**Guiding Questions:** 
   * Why and how is white male fragility central to the development of technology?
   * Do you consider yourself someone who has control over how and when they interact with computers/smartphones? Why or why not?
   * 
 
-**Before Class:** \
-Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-20 folder](/Sep-20) by midnight the day before class.
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-20 folder](/Sep-20) by midnight the day before class.
 
 ## Week 3 - Black Gooey Universe ##
 **Thursday Sep 27, 10 AM**
@@ -74,4 +73,9 @@ Please write a response to the text, this can include questions, impressions, sk
 
 **Reading:** [Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing"]() from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
   
+## Week 9 - No Class (Showcase) ##
+**Thursday Nov 8**
+
+## Week 10 - No Class (Artist Toolkit) ##
+**Thursday Nov 15**
   
