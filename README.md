@@ -75,7 +75,7 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 8 - Algorithmic Policing ##
 **Thursday Nov 1, 10 AM**
 
-**Reading:** [Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing"](https://www.e-flux.com/journal/87/169043/this-is-a-story-about-nerds-and-cops-predpol-and-algorithmic-policing/) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
+**Reading:** Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing" (will get PDF soon) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
   
 ## Week 9 - No Class (Showcase) ##
 **Thursday Nov 8**
