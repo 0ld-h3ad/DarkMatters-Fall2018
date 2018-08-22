@@ -9,13 +9,13 @@
 
 **Class Schedule:** \
 Sep 13: No class – SFPC Salon \
-Sep 20: [Software as Ideology](#week-2) \
-Sep 27: [Black Gooey Universe]() \
-Oct 4: [Intro to Blackness and Surveillance]() \
-Oct 11: [Lecture by Melanie Hoff]() \
-Oct 18: [Lecture by Shannon Finnegan]() \
-Oct 25: [Biometric Surveillance of Blackness]() \
-Nov 1: [Algorithmic Policing] \
+Sep 20: [Software as Ideology](#week-2---software-as-ideology) \
+Sep 27: [Black Gooey Universe](#week-3---black-gooey-universe) \
+Oct 4: [Intro to Blackness and Surveillance](#week-4---intro-to-blackness-and-surveillance) \
+Oct 11: [Lecture by Melanie Hoff](#week-5---lecture-by-melanie-hoff) \
+Oct 18: [Lecture by Shannon Finnegan](#week-6---lecture-by-shannon-finnegan) \
+Oct 25: [Biometric Surveillance of Blackness](#week-7---biometric-surveillance-of-blackness) \
+Nov 1: [Algorithmic Policing](#week-8---algorithmic policing) \
 Nov 8: No class – Showcase \
 Nov 15: No class – Artist Toolkit 
 
