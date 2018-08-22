@@ -43,9 +43,11 @@ In this course we will consider together the surveillance of Blackness and the p
 **Reading:** [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”](/wendy-hui-kyong-chun_on-software.pdf)
 
 **Guiding Questions:** 
-  * Why and how is white male fragility central to the development of technology?
-  * Do you consider yourself someone who has control over how and when they interact with computers/smartphones? Why or why not?
-  * 
+  * Is there a real distinction between software and hardware or is it just semantic?
+  * Why and how has white male fragility been central to the development of technology?
+  * How often do you notice your computer or smartphone?
+  * What are some activites in your life that are determined by what your smartphone/computer is able to do?
+  * Think of your friends and family, if they were the designers of computer technology what would it do/look like?
 
 **Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-20 folder](/Sep-20) by midnight the day before class.
 
