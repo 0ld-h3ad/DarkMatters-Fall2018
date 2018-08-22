@@ -27,6 +27,8 @@ In this course we will consider together the surveillance of Blackness and the p
 
   * The readings are mandatory. The class will be most useful if you read the texts completely and come prepared with questions.
   * Come ready to support others. We will learn the most if everyone contributes to class discussion. If you find yourself talking more than others, feel comfortable to step back so that others may speak.
+  * Be open to questioning things we take for granted as normal. How can we destabilize and decenter power structures considered normal to everyday life?
+  * This class mainly focuses on the lived experience of African-Americans under state surveillance technologies. If that does not reflect your lived experience consider how you may contribute to systemic anti-blackness.
   
 **Guiding Questions** 
 
