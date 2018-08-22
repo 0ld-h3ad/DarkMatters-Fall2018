@@ -9,7 +9,7 @@
 
 **Class Schedule:** \
 Sep 13: No class – SFPC Salon \
-Sep 20: [Software as Ideology]() \
+Sep 20: [Software as Ideology](#week-2) \
 Sep 27: [Black Gooey Universe]() \
 Oct 4: [Intro to Blackness and Surveillance]() \
 Oct 11: [Lecture by Melanie Hoff]() \
@@ -38,7 +38,7 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 2 - Software as Ideology ##
 **Thursday Sep 20, 10 AM**
 
-**Reading:** [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”]()
+**Reading:** [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”](/wendy-hui-kyong-chun_on-software.pdf)
 
 **Guiding Questions:** 
   * Why and how is white male fragility central to the development of technology?
@@ -50,12 +50,12 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 3 - Black Gooey Universe ##
 **Thursday Sep 27, 10 AM**
 
-**Reading:** [American Artist, “Black Gooey Universe”]()
+**Reading:** [American Artist, “Black Gooey Universe”](/UNBAG_2_AmericanArtist.pdf)
 
 ## Week 4 - Intro to Blackness and Surveillance ##
 **Thursday Oct 4, 10 AM**
 
-**Reading:** [Simone Browne, "Introduction, and Other Dark Matters"]() from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
+**Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/SimoneBrowne_Intro-DarkMatters.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
 ## Week 5 - Lecture by Melanie Hoff ##
 **Thursday Oct 11, 10 AM**
@@ -66,12 +66,12 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 7 - Biometric Surveillance of Blackness ##
 **Thursday Oct 25, 10 AM**
 
-**Reading:** [Simone Browne, "B®anding Blackness"]() from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
+**Reading:** [Simone Browne, "B®anding Blackness"](/SimoneBrowne_3-BrandingBlackness.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
 ## Week 8 - Algorithmic Policing ##
 **Thursday Nov 1, 10 AM**
 
-**Reading:** [Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing"]() from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
+**Reading:** [Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing"](https://www.e-flux.com/journal/87/169043/this-is-a-story-about-nerds-and-cops-predpol-and-algorithmic-policing/) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
   
 ## Week 9 - No Class (Showcase) ##
 **Thursday Nov 8**
