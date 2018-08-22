@@ -15,7 +15,7 @@ Oct 4: [Intro to Blackness and Surveillance](#week-4---intro-to-blackness-and-su
 Oct 11: [Lecture by Melanie Hoff](#week-5---lecture-by-melanie-hoff) \
 Oct 18: [Lecture by Shannon Finnegan](#week-6---lecture-by-shannon-finnegan) \
 Oct 25: [Biometric Surveillance of Blackness](#week-7---biometric-surveillance-of-blackness) \
-Nov 1: [Algorithmic Policing](#week-8---algorithmic policing) \
+Nov 1: [Algorithmic Policing](#week-8---algorithmic-policing) \
 Nov 8: No class – Showcase \
 Nov 15: No class – Artist Toolkit 
 
