@@ -46,7 +46,7 @@ You do not need to respond to these. Have them in mind when reading and consider
   * 
 
 **Before Class:** \
-Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the repository * by midnight the day before class.
+Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-20 folder](/Sep-20) by midnight the day before class.
 
 ## Week 3 - Black Gooey Universe ##
 **Thursday Sep 27, 10 AM**
