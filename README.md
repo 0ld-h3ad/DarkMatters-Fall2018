@@ -5,7 +5,7 @@
 **Track:** Critical Theory, Fall 2018\
 **Location:** School for Poetic Computation | [sfpc.io](http://sfpc.io/codesocieties/) | 155 Bank St, New York, NY 10014 \
 **Time:** Thursdays at 10 AM\
-**Office Hours:** TBD
+**Office Hours:** [Sign Up Here](https://docs.google.com/spreadsheets/d/1_orhfALLK9tgv7gv9tJSEWwRO1b3MIMJ5XGznpGmpYM/edit#gid=0)
 
 **Class Schedule:** \
 Sep 13: No class – SFPC Salon \
