@@ -13,7 +13,7 @@ Sep 20: [Software as Ideology](#week-2---software-as-ideology) \
 Sep 27: [Black Gooey Universe](#week-3---black-gooey-universe) \
 Oct 4: [Intro to Blackness and Surveillance](#week-4---intro-to-blackness-and-surveillance) \
 Oct 11: [Lecture by Melanie Hoff](#week-5---lecture-by-melanie-hoff) \
-Oct 18: [Lecture by Shannon Finnegan](#week-6---lecture-by-shannon-finnegan) \
+Oct 18: [Critical Access Studies with Shannon Finnegan](#week-6---critical-access-studies-with-shannon-finnegan) \
 Oct 25: [Biometric Surveillance of Blackness](#week-7---biometric-surveillance-of-blackness) \
 Nov 1: [Algorithmic Policing](#week-8---algorithmic-policing) \
 Nov 8: No class – Showcase \
@@ -21,7 +21,7 @@ Nov 15: No class – Artist Toolkit
 
 **Course Description**
 
-In this course we will consider together the surveillance of Blackness and the positioning of white as neutral within interfaces as forms of violence perpetuated by high technology. We will discuss how we all can use computational systems to create change while holding them accountable to their origins and biases. For this course we will be reading Simone Browne and other critical theorists to understand how these structures are compromised so that we can begin to imagine what an outside to them might look like. We will also use the practices of artists critiquing (and expanding the imaginary within) technology as examples of how radical imagination can be evoked through artistic practice.
+In this course we will consider together the surveillance of Blackness and the positioning of white as neutral within interfaces as forms of violence perpetuated by high technology. We will discuss how we all can use computational systems to create change while holding them accountable to their origins and biases. For this course we will be reading Simone Browne and other critical theorists to understand how these structures are compromised so that we can begin to imagine what an outside to them might look like. We will also use the practices of artists critiquing (and expanding the imaginary within) technology as examples of how radical imagination can be evoked through artistic practice. In the month of October there will be lectures by Melanie Hoff and Shannon Finnegan.
 
 **Expectations & Goals**
 
@@ -64,8 +64,10 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 5 - Lecture by Melanie Hoff ##
 **Thursday Oct 11, 10 AM**
 
-## Week 6 - Lecture by Shannon Finnegan ##
+## Week 6 - Critical Access Studies with Shannon Finnegan ##
 **Thursday Oct 18, 10 AM**
+
+**Description:** During this class, we'll look into Critical Access Studies. Scholar Aimi Hamraie writes, "Unlike the majority of research on access, which is about persuading people to create more of it, Critical Access Studies addresses the assumptions and strategies of those already committed to access.” We'll talk about how understandings of disability and approaches to access have shifted historically, and we'll get into some specifics of access in a digital context. 
 
 ## Week 7 - Biometric Surveillance of Blackness ##
 **Thursday Oct 25, 10 AM**
