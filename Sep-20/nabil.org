@@ -1,0 +1,52 @@
+* Chun: "On Software or the Persistence of Visual Knowledge"
+- how does the nonvisual, nontransparent computer seemingly foster both? do not forget they compute, they generate text and images -- not merely represent
+- but what is software? disappears like peeling an onion. mimics ideology + ideology critique
+- initially programming meant physically rewiring machine
+- stored program decreased time for programming, increased it for computation -- a common tradeoff in programming languages as well, cf highly optimized assembly vs convenient high level language
+- not widely foreseen computers would move from calculator / mental labor multiplier to communications medium
+- grew out of the cold war. one more example of computing's entwinement with imperialism
+- development of metaprograms such as interpreters, compilers, assemblers, generators was first called automatic programming; now we mostly just call it programming
+- makes programming problem oriented instead of numerically oriented
+- software running on multiple machines is now "natural", but initially was anything but
+- "Programming languages inscribe the absence of both the programmer and the machine in its so-called writing."
+- *cf Marx's fragment on machines*: "He steps to the side of the production process instead of being its chief actor. In this transformation, it is neither the direct human labour he himself performs, nor the time during which he works, but rather the appropriation of his own general productive power, his understanding of nature and his mastery over it by virtue of his presence as a social body – it is, in a word, the development of the social individual which appears as the great foundation - stone o f production and of wealth. The theft of alien labour time, on which the present wealth is based, appears a miserable foundation in face of this new one, created by large - scale industry itself. "
+- this prevented monopolization of programming by "high priests"
+- some companies considered it unprofitable because programmers were way cheaper than computers (rarely the case today)
+- hardware upgrade cycle grew from this logic. *how can we imagine an alternative, ecological hardware cycle imaginable?*
+- scientists learned fortran, computing opened
+- mastery of computing was suffering. still true
+- is programming a clerical activity or an act of mastery? subjectively, i feel i've experienced both, the former predominating under capitalism. alienated labor
+- 50s programming was gender neutral...among which people? white people? what about computing in the soviet bloc or elsewhere in the world?
+- notions of programmers enjoying tedious tasks come from patriarchal relations: women were the initial human computers
+- "programming became programming and software became software when commands shifted from commanding a 'girl' to commanding a machine"
+- Turing called female volunteer computers in ww2 slaves -- terminology still with us
+- command preceded the command line, which is an OS simulation
+- "automation lies at the core of a profession which likes to believe it has automated every profession but its own." yes, however in fact doctors describe IBM Watson as a piece of shit
+- Sadie Plant: programming is essentially feminine
+- transition from commanding a "girl" to an automaton was difficult because an automaton merely deciphers, not interprets, and doesn't learn from experience
+- part of debugging on the ENIAC was figuring out which errors came from physical machine, and which from programming. hardware not so reliable
+- historical assessments of women "joining the computer workforce" miss that they were always already there
+- automation of command and control as instantiation of military tradition
+- software engineering emerged late 60s in response to software crisis, to go from craft to industrial practice
+- structured programming, goto harmful, etc hide the machine and thus secure it, as well as enhancing programmer's ability to think abstractly rather than numerically
+- abstraction simultaneously empowers the programmer and insists on their ignorance
+- David Eck: every programming language defines a virtual machine for which it is the machine language
+- software as a commodity is a triumph of the industry, given that instructions are immaterial and nonrivalrous
+- programmers are users too! of editors, of operating systems, browsers...
+- i've noticed this and identified myself more with users over time
+- the pleasure of programming: absolute power obtained by following rules
+- claim naivete of von Neumann's beliefs in neural networks, but perhaps similar beliefs accompany today's machine learning boom
+- there are no coincidences in a "good" user interface
+- examples of maps of power relations among corporate board members
+- cf anatomyof.ai
+- software was literally created to obfuscate the machine, yet it has led to the notion of computation as transparent
+- fuck zizek, but "ideology persists in one's actions rather than one's beliefs" is facts
+- OSes create users: before them, a human operator literally ran the computer
+- example of "the matrix" amplifying police powers by rendering visible the previously invisible
+- software is all about this, and all about translating between machine-readable code and human-readable language
+- move from media studies to software studies
+- but computers do more than transcode -- they compute!
+- cf 4 brains "code, code is data, data is code, software is garbage"
+- computer security as security from the user, e.g. DRM
+- there is ideology behind the recent analogies of: culture is software, nature is hardware...
+- "people may deny ideology, but they don't deny software" -- cf discussions about what is twitter doing to us, etc
