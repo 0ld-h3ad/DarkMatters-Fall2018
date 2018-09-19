@@ -1,1 +1,0 @@
-Thoughts on Software transparency
