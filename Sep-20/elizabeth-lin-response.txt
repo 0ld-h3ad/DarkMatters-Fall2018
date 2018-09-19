@@ -1,0 +1,35 @@
+On Software, on the Persistence of Visual Knowledge
+Elizabeth Lin
+09.20
+-
+Reading this paper made me reflect on the lack of history and ethics in my computer science 
+education. Most of my professors at most glazed over “important” computing discoveries over 
+time, but never dove into the why. I wonder how Silicon Valley would be different if all 
+everyone were required to take an ethics test similar to the bar before creating products 
+for the world.
+
+Should we even be allowed to make stuff? How do we weave this thinking into the things that 
+we make? Impacted CS programs oftentimes have GPA caps that take the average of all the 
+technical classes, but what about ethics? Why are students required to take 3 levels of math, 
+but only have to take a single credit ethics class to get a degree? Fixing this issue isn’t 
+as simple as adding a class to the curriculum, but I’m curious to explore why.
+
+If you remove “using machine code,” I believe the following sentence might still be true: 
+“I believe programming would have remained in the hands of a relatively small number of 
+technically oriented software writers using machine code, who would have been essentially 
+the high priests of computing.” Although programming is more accessible, the people who 
+create are not aware of the implications of their own creations.
+
+In college, my classmates and I would stay up to finish programming assignments and projects. 
+Every time something “worked” the way it was supposed to, we would jump up and celebrate! 
+I never really stopped to consider that the joy of programming is because it produces 
+“strong sensations of power and control.” It’s so weird that a machine can be the source 
+of so much happiness and frustration.  As Chung puts it, “who or what, after all, is saying 
+‘hello world?’”
+
+The entire section about the history of programming and women really hit close to home. 
+People often say that the “first programmers were women,” but don’t get into the why’s 
+of how men took over the field. Is programming a clerical activity or an act of mastery? 
+Is really just a shift of programming being thought of as a “feminine” task to a 
+“masculine” one. It frustrates me that there is so much sexism hidden in the origins 
+of computing.
