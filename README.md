@@ -65,6 +65,7 @@ In this course we will consider together the surveillance of Blackness and the p
 
 **Guiding Questions:** 
   * (Carrying this over from last week:) Think of your friends and family, if they were the designers of computer technology what would it do/look like?
+  * How do you determine when something seemingly innocuous (like changing from a black screen to white screen) is coded violence rather than a coincidence?
   * Think about where members of your family were 100 or 200 years ago. What forms of technology did they use or were used against them?
   * What is the role or use of abstract thinking in various labor/liberation struggles?
   * Have you ever used technology that you were embarrassed or ashamed to have—broken or obsolete devices? Do you still feel the same way?
