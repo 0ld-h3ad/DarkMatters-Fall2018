@@ -1,0 +1,15 @@
+Eli_muro
+Black gooey universe response
+sept 26th 2018 
+
+
+People have a tendency to think that technology is neutral , but I think now people are beginning to realize that they carry the bias of the designer/creator and that we need to take a look at who these people are. Who do these tools serve, who is excluded, who is marginalized etc. 
+
+When it was discovered that facial recognition software did not work well on black and brown faces, it became apparent that these software models came with the inherent bias of their white creators. The data sets that they had used contained mainly white faces so that when presented with something else they didnt recognize it as a face, which is a good example of the “silicon valley advancing this constitutive anti-blackness” 
+
+
+The idea of folder and desktop; are they skeuomorphs or just useful metaphors for ways to think about computers  and how they work? This is critical from a capitalist perspective when one is trying to sell computers, of course one must make sure people understand them first. By compartmentalizing large concepts into smaller ideas the larger structure is obfuscated and never ever revealed to the layman, but they become immediately more easy to understand and therefore use. 
+
+As someone who designs interfaces for work I often have the goal of making it work for the people using it in the easiest possible way, as to not make them think. There are whole books written on keeping people from thinking when using interfaces ( I haven’t read them because I like making people think ). This places me in an intermediary position between the software requirements, the programmers and the users. Sometimes what feels like an oversimplification of a complex process wrought with a network of social connections and history is at odds with what a company is trying to achieve. “dont make me think” is the name of the aforementioned book, while it ay seem obvious, it implies that people dont want to think when they are using technology, but - what people want,and what is good for them ( & society)  - are often at odds.
+
+
