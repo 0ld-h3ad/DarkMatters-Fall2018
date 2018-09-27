@@ -54,7 +54,23 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 3 - Black Gooey Universe ##
 **Thursday Sep 27, 10 AM**
 
+**Agenda:**
+  * Lecture on assigned reading - 40 mins
+  * Artist lecture by American - 40 mins
+  * Break - 10 mins
+  * Small group discussion of writing assignment - 20 mins
+  * Full group discussion - 1 hour
+
 **Reading:** [American Artist, “Black Gooey Universe”](/UNBAG_2_AmericanArtist.pdf)
+
+**Guiding Questions:** 
+  * (Carrying this over from last week:) Think of your friends and family, if they were the designers of computer technology what would it do/look like?
+  * How do you determine when something seemingly innocuous (like changing from a black screen to white screen) is coded violence rather than a coincidence?
+  * Think about where members of your family were 100 or 200 years ago. What forms of technology did they use or were used against them?
+  * What is the role or use of abstract thinking in various labor/liberation struggles?
+  * Have you ever used technology that you were embarrassed or ashamed to have—broken or obsolete devices? Do you still feel the same way?
+  
+**Before Class:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Sep-27 folder](/sep-27) by midnight the day before class.
 
 ## Week 4 - Intro to Blackness and Surveillance ##
 **Thursday Oct 4, 10 AM**

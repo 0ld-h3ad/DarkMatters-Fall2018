@@ -1,0 +1,9 @@
+The violent history of computing had never occurred to me, but of course it makes sense that all technology must evolve out of a strong social impetus such as war strategy. The fact that computer language continues to be dictated by violent rhetoric, ‘commands,’ perpetuates this obfuscated violent history.
+
+On the point of vocabulary, the language being chosen to speak about computation, software and hardware is important to consider, and describes the society that is being built. I liked the question posed by the essay around the democratization of programming, whether it is a clerical or an act of mastery. And that there is another quality to it that makes it a ‘higher power.’
+
+It was interesting to read about the abstraction of processes that evolved as computers became more powerful, and the roles of programmation changed in a gendered way. The clerical tasks performed in the power of computer operators in the early days were displaced by the machines themselves. The idea of programmers wanting to control machines as a parallel to controlling women is interesting.
+
+The essay speaks about transparency of software and hardware in different forms, reminding me of the nonexistence/ephemeral existence of the digital world. That at once, everything exists, but it is hidden and must be activated, so therefore it is mostly dormant.
+
+When dealing with the machine, we speak in terms of physical visible objects, such as desktops, folders, documents, but these abstractions and general vocabulary that have none of the physical attributes or utility of these objects, so the metaphor becomes irrelevant once users grow accustomed to this new vocabulary.
