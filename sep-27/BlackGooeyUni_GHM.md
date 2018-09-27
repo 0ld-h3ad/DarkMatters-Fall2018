@@ -1,0 +1,7 @@
+
+Incubators and Ivory Towers
+
+On Tuesday a group of us read this text together. We had a talked about the whiteness of Silicon Valley, a "space for engineers free of economic pressures they might face in a standard corporate context—a place for straight cis white men
+in business ties to sit on bean bag chairs and embrace consequential ideas without fear of retribution." We talked about the fact that Silicon Valley workers are not disproportionately white, and how we can talk about the ways in which Silicon Valley reifies white supremacy without erasing the presence of so many developers and engineers of colour from the conversation. We asked: to what extent to those who enter the ivory tower--regardless of identity--reproduce white ideals?
+
+I've been thinking about this phrase: "embrace consequential ideas without fear of retribution". This is the ethos of the "incubator", and also, in large part, the way we have set up our education system. Are we supposed to learn, research, and create art and design in a shelter from the world? This seems like a privileged and oppressive framing of what creativity is and how it works: that creativity is an act of leisure. I want to spend some time interrogating the ways in which this framing of creativity outputs anti-blackness and anti-indigineity, and reinforces white ideals, just through the physical and social structuring of our spaces meant for learning, research, and design. If anyone has suggestions for further reading about the isolation of these fields from the world around them, please let me know!
