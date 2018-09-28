@@ -1,0 +1,7 @@
+It was interesting to consider that the GUI didn't already exist with the first version of computing, because for most consumers it is 100% the utility of the tool. The fact that it had to be a creation in order to transit the technology and turned into a consumer product had never occurred to me. And of course to be a visual representation of our culture, choices had to be made about how that interface had to be represented.
+
+To compare the deliberate change of color from black to white was so blatant to me. Even from the somewhat neutral perspective of legibility, it doesn't seem to make sense. I actually found it quite pleasing to read the article as white on black text and was less of a strain on the eyes.
+
+To consider the GUI as a truth because it is technology, or because it is a science, or because it is the only thing we know is a blindness. I question why it is so difficult to confront or challenge technology. Perhaps because the barrier to entry and understanding is so high. Or maybe because of the lack of transparency there is in computation's history, into it's evolution, or even into its processing. The computer has become a giant mystery, silos of streams of knowledge. 
+
+I'm a bit appalled by how much the public has been manipulated or talked down to in order to maintain this lack of questioning around a standard and ubiquitous element in our lives. Why is it free from confrontation? And how many user-friendly interfaces will we build to keep the public ignorant and submissive.
