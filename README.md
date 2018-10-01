@@ -101,10 +101,10 @@ In this course we will consider together the surveillance of Blackness and the p
 **Description:** During this class, we'll look into Critical Access Studies. Scholar Aimi Hamraie writes, "Unlike the majority of research on access, which is about persuading people to create more of it, Critical Access Studies addresses the assumptions and strategies of those already committed to access.” We'll talk about how understandings of disability and approaches to access have shifted historically, and we'll get into some specifics of access in a digital context. 
 
 **Materials:**
-  * [Social Model of Disability, Intro (Youtube)](https://www.youtube.com/watch?v=9s3NZaLhcc4&feature=youtu.be)
-  * [Carmen Papalia, "For a New Accessibility"]()
-  * [Mia Mingus, "Access Intimacy, Interdependence and Disability Justice"](https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/)
-  * [Aimi Hamraie on *Imagine Otherwise* podcast](https://ideasonfire.net/67-aimi-hamraie/)
+  * Video: [Social Model of Disability, Intro (Youtube)](https://www.youtube.com/watch?v=9s3NZaLhcc4&feature=youtu.be)
+  * Reading: [Carmen Papalia, "For a New Accessibility"](/Papalia_For%20a%20New%20Accessibility%20draft.pdf)
+  * Reading: [Mia Mingus, "Access Intimacy, Interdependence and Disability Justice"](https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/)
+  * Podcast & transcript: [Aimi Hamraie on *Imagine Otherwise*](https://ideasonfire.net/67-aimi-hamraie/)
 
 ## Week 7 - Biometric Surveillance of Blackness ##
 **Thursday Oct 25, 10 AM**
