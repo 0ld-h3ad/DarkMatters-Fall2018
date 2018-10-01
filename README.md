@@ -75,7 +75,22 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 4 - Intro to Blackness and Surveillance ##
 **Thursday Oct 4, 10 AM**
 
+**Agenda:**
+  * Lecture on assigned reading - 1 hr
+  * Break - 10 mins
+  * Small group discussion of writing assignment - 30 mins
+  * Full group discussion - 1 hour
+
 **Reading:** [Simone Browne, "Introduction, and Other Dark Matters"](/SimoneBrowne_Intro-DarkMatters.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
+
+**Guiding Questions:** 
+  * Browne says “epidermalization here is the imposition of race on the body.” How is race imposed on individuals by how are they seen in society?
+  * How can the surveillance of blackness help us understand the social conditions of surveillance more generally?
+  * How do new technologies change the invasiveness and effectiveness of surveillance, or what Gary T. Marx calls “the new surveillance”? 
+  * What are some real life examples of different forms of veillance described by Steve Mann, such as counterveillance, sousveillance or univeillance?
+  * What are some ways you have undermined or escaped surveillance in your own life?
+  
+  **By Tuesday 10/2 11:59 PM:** Please write a response to the text, this can include questions, impressions, sketches, notes or your own ideas. Aim for 300 words or about half a page in standard settings. Please add it to the [Oct-4 folder](https://paper.dropbox.com/folder/show/Critical-Theory-Homework-Submissions-e.1gg8YzoPEhbTkrhvQwJ2zz3XHfnT6CjMZYog8hN8ssefi47qQXPD) on Dropbox Paper.
 
 ## Week 5 - Lecture by Melanie Hoff ##
 **Thursday Oct 11, 10 AM**
@@ -85,15 +100,25 @@ In this course we will consider together the surveillance of Blackness and the p
 
 **Description:** During this class, we'll look into Critical Access Studies. Scholar Aimi Hamraie writes, "Unlike the majority of research on access, which is about persuading people to create more of it, Critical Access Studies addresses the assumptions and strategies of those already committed to access.” We'll talk about how understandings of disability and approaches to access have shifted historically, and we'll get into some specifics of access in a digital context. 
 
+**Materials:**
+  * [Social Model of Disability, Intro (Youtube)](https://www.youtube.com/watch?v=9s3NZaLhcc4&feature=youtu.be)
+  * [Carmen Papalia, "For a New Accessibility"]()
+  * [Mia Mingus, "Access Intimacy, Interdependence and Disability Justice"](https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/)
+  * [Aimi Hamraie on *Imagine Otherwise* podcast](https://ideasonfire.net/67-aimi-hamraie/)
+
 ## Week 7 - Biometric Surveillance of Blackness ##
 **Thursday Oct 25, 10 AM**
 
 **Reading:** [Simone Browne, "B®anding Blackness"](/SimoneBrowne_3-BrandingBlackness.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
+**Before Class:** Please submit a first draft of what you plan to contribute to the zine. This should be as close to final as possible. Nabil and American will provide feedback. If you are writing in the form of an essay aim for 500-1000 words, this will be a piece of writing you can potentially develop and publish in the future.
+
 ## Week 8 - Algorithmic Policing ##
 **Thursday Nov 1, 10 AM**
 
 **Reading:** Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing" (will get PDF soon) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
+
+**Before Class:** Please submit your final draft of what you plan to contribute to the zine. We will design and develop these works into a zine that will be available during the showcase.
   
 ## Week 9 - No Class (Showcase) ##
 **Thursday Nov 8**
