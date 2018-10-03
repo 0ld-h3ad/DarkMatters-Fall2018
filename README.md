@@ -109,6 +109,14 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 7 - Biometric Surveillance of Blackness ##
 **Thursday Oct 25, 10 AM**
 
+**Agenda:**
+  * Lecture on assigned reading - 45 mins
+  * Guest artist lecture by [Sondra Perry](http://sondraperry.com/) - 30 mins
+  * Q&A with Sondra - 15 mins
+  * Break - 10 mins
+  * Group discussion - 1 hour
+  * **Field trip to Performance Space:** - [*A Wild Ass Beyond: ApocalypseRN*](https://performancespacenewyork.org/shows/a-wild-ass-beyond-apocalypsern/) Exhibition, 2:30 PM
+
 **Reading:** [Simone Browne, "B®anding Blackness"](/SimoneBrowne_3-BrandingBlackness.pdf) from [*Dark Matters: On the Surveillance of Blackness*](https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383)
 
 **Before Class:** Please submit a first draft of what you plan to contribute to the zine. This should be as close to final as possible. Nabil and American will provide feedback. If you are writing in the form of an essay aim for 500-1000 words, this will be a piece of writing you can potentially develop and publish in the future.
