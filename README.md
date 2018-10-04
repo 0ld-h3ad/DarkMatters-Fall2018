@@ -95,6 +95,18 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 5 - Lecture by Melanie Hoff ##
 **Thursday Oct 11, 10 AM**
 
+**Description:** Cybernetics of Sex: Technology, Feminism, and the Choreography of Culture
+
+**Agenda:**
+  * Presentation
+  * Workshop / activity
+  * Discussion
+
+**Readings:**
+  * [The Master’s Tools Will Never Dismantle the Master’s House](/Lorde_The_Masters_Tools.pdf) by Audre Lorde, 1979
+  * [Uses of the Erotic by Audre Lorde](/SisterOutside.pdf), 1978
+  * [A Cyborg Manifesto](/a-cyborg-manifesto) by Donna Harraway, 1985; 1991
+
 ## Week 6 - Critical Access Studies with Shannon Finnegan ##
 **Thursday Oct 18, 10 AM**
 
