@@ -136,8 +136,20 @@ In this course we will consider together the surveillance of Blackness and the p
 ## Week 8 - Algorithmic Policing ##
 **Thursday Nov 1, 10 AM**
 
-**Reading:** Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing" (will get PDF soon) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
+**Agenda:**
+  * Lecture on assigned reading - 1 hr
+  * Break - 10 mins
+  * Small group discussion of writing assignment - 30 mins
+  * Full group discussion - 1 hour
 
+**Reading:** [Jackie Wang, "'This Is a Story About Nerds and Cops': PredPol and Algorithmic Policing"](/JackieWang_CarceralCapitalism_ThisIsAStoryAboutNerdsAndCops.pdf) from [Carceral Capitalism](https://www.amazon.com/Carceral-Capitalism-Semiotext-Intervention-Jackie/dp/1635900026/ref=sr_1_1?s=books&ie=UTF8&qid=1534947351&sr=1-1&keywords=carceral+capitalism+jackie+wang)
+
+**Guiding Questions:** 
+  * Do you believe in "crime"? Do you agree with who is considered "criminal"?
+  * If we rely on algorithmic data to make decisions on people's lives, who is responsible for those decisions: The people making the software? The people inputting the data? the people acting based on the data? the people affected by it? or someone else entirely?
+  * How do our predictions of the future shape what is possible within it?
+  * How else might daily life be determined by the relationship between "law enforcement, the university, the Department of Defense, and Silicon Valley"?
+ 
 **Before Class:** Please submit your final draft of what you plan to contribute to the zine. We will design and develop these works into a zine that will be available during the showcase.
   
 ## Week 9 - No Class (Showcase) ##
